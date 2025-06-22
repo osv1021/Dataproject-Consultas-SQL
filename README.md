@@ -16,6 +16,7 @@ Este repositorio contiene una colección completa de **consultas SQL** que resue
   - Relaciones entre actores, películas, clientes y categorías
 
   -`Ejercicio 1 (esquema BBDD)` : esquema de la base de datos.
+  
   -`README.md`
 
 ---
